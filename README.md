@@ -8,6 +8,11 @@
 - Starte die Installation mit einem Klick auf die Schaltfläche ``Installieren``
 - Wenn die Installation beendet ist, startet der Launcher automatisch, hier musst du dich mit deinen Minecraft-Accountdaten anmelden
 
+## Festlegen des Arbeitsspeichers
+- Rufe die ``Launcher-Optionen`` (oben rechts) auf, um dem Modpack ausreichend Arbeitsspeicher zur Verfügung zu stellen.
+- Wähle den Reiter ``Java-Einstellungen`` und stelle sicher, dass mindestens **8 GB** Arbeitsspeicher eingestellt sind.
+- Anschließend kannst du das Optionsfenster wieder schließen
+
 ## Installation des Modpacks
 - Wechsle im Launcher-Hauptfenster auf den Reiter ```Modpacks``
 - Um das Modpack zu finden, kopiere [diesen Link](http://api.technicpack.net/modpack/jrk-server-modpack) (Rechtsklick -> ``Link-Ardesse/URL kopieren``) und füge ihn oben links in die Suchleiste ein, das ``JRK Server Modpack`` erscheint in der Liste
